@@ -72,3 +72,34 @@
 * Sales Analysis: Identify top-performing products and high-revenue cities.
 
 * Product Demand Trends: Track product sales and revenue at a granular level.
+
+
+#  Recomendation Of Top 3 Cities For New Branch
+
+### City1: Pune
+
+* Average Rent Per Customer is very less which is 294.
+
+* Average sale per customer is also high which is 24197.. 
+
+* Total Revenue is also high which is 1258290.
+
+* There are 1.875 millions Coffee Consumers in Pune City.
+
+City2: Delhi
+
+* Delhi has the highest Coffee Consumers among all cities.
+
+*  The Average Rent Per Customer is less which is 330.
+
+* Delhi has total 68 Customers which is high.
+
+City3: Jaipur
+
+* Jaipur has the highest total Number of Customers which is 69.
+
+* Avgerage Rent Per Customer is very less among all the cities, which is 156.
+
+* Total Revenue and Average Sale Per Customer is better in jaipur.
+
+
