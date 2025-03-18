@@ -86,7 +86,7 @@
 
 * There are 1.875 millions Coffee Consumers in Pune City.
 
-City2: Delhi
+### City2: Delhi
 
 * Delhi has the highest Coffee Consumers among all cities.
 
@@ -94,7 +94,7 @@ City2: Delhi
 
 * Delhi has total 68 Customers which is high.
 
-City3: Jaipur
+### City3: Jaipur
 
 * Jaipur has the highest total Number of Customers which is 69.
 
